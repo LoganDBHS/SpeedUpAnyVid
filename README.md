@@ -10,6 +10,12 @@ A Chrome extension that lets you speed up any video on any website by holding do
 - Automatically targets the most visible or currently playing video on the page
 - Smart enough to not activate when you're typing in a text field
 
+## Install from Chrome Web Store
+
+1. Go to the [Chrome Web Store](https://chromewebstore.google.com)
+2. Search for **"Speed Up Any Vid"**
+3. Click **Add to Chrome**
+
 ## Install from Source
 
 1. Clone this repo
