@@ -6,7 +6,8 @@ A Chrome extension that lets you speed up any video on any website by holding do
 
 - **Hold spacebar** → video plays at 2x speed
 - **Release spacebar** → video returns to normal speed
-- Works on YouTube, Reddit, Twitter/X, Vimeo, and any site with HTML5 video
+- Works on YouTube, Reddit, Twitter/X, Instagram, Vimeo, and any site with HTML5 video
+- Reaches videos inside shadow DOM, which several sites use for their player
 - Automatically targets the most visible or currently playing video on the page
 - Smart enough to not activate when you're typing in a text field
 
@@ -30,3 +31,12 @@ If a page has multiple videos (e.g., a Reddit or Twitter feed), the extension pi
 1. If only one video exists, it uses that one
 2. If one video is currently playing, it picks that one
 3. Otherwise, it picks the most visible video on screen
+
+## Privacy
+
+No data is collected, stored, or transmitted — see
+[PRIVACY_POLICY.md](PRIVACY_POLICY.md).
+
+## License
+
+MIT — see [LICENSE](LICENSE).
